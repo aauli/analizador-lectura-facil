@@ -10,9 +10,8 @@
 <body>
 	<form action="processForm" method="GET">
 		
-	<input type="file" name="fileUpload" required/>
+	<input type="text" name="textInput">
 	<br><br>
-	
 	<input type="submit" value="Submit"/>
 	
 	</form>
